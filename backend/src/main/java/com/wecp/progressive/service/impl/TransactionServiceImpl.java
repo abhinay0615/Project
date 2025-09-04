@@ -37,14 +37,4 @@ public class TransactionServiceImpl implements TransactionService {
         
         return null;
     }
-    // @Override
-    // public Transactions getTransactionById(Integer transactionId) throws SQLException {
-    //     // TODO Auto-generated method stub
-    //     throw new UnsupportedOperationException("Unimplemented method 'getTransactionById'");
-    // }
-    // @Override
-    // public void deleteTransaction(Integer transactionId) throws SQLException {
-    //     // TODO Auto-generated method stub
-    //     throw new UnsupportedOperationException("Unimplemented method 'deleteTransaction'");
-    // }
 }
